@@ -34,6 +34,6 @@ Email Me 👉 ✉️ **rakshithsuvarna2806@gmail.com** For Collaboration/Project
 ![](https://github-contributor-stats.vercel.app/api?username=StormShadow-Nexus&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=StormShadow-Nexus&icon=2&color=cyan)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=StormShadow-Nexus&icon=Profile%20Views&color=cyan)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
