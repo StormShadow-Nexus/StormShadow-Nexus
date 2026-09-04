@@ -1,9 +1,14 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+
 # 💫 Hi There👋, I'm StormShadow
 **A passionate Cloud Engineer || Engineer ||  from India**
 
 Email Me 👉 ✉️ **rakshithsuvarna2806@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+---
+![](https://komarev.com/ghpvc/?username=StormSHadow-Nexus&color=fb4362)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakshith_suvarna_2806) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/RakshithBS) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakshithsuvarna2806@gmail.com) 
 
@@ -33,7 +38,6 @@ Email Me 👉 ✉️ **rakshithsuvarna2806@gmail.com** For Collaboration/Project
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=StormShadow-Nexus&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
----
-![](https://komarev.com/ghpvc/?username=StormSHadow-Nexus&color=fb4362)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
