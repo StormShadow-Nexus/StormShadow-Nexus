@@ -30,7 +30,7 @@ Email Me 👉 ✉️ **rakshithsuvarna2806@gmail.com** For Collaboration/Project
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=StormShadow-Nexus&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.screw-hand.vercel.app/?StormShadow-Nexus=StormShadow-Nexus)
+https://github-profile-trophy.screw-hand.vercel.app/?StormShadow-Nexus=lucthienphong1120&theme=radical
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
